@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_schedules"
+        android:icon="@drawable/schedule"
+        android:title="@string/schedules" />
+
+    <item
+        android:id="@+id/navigation_rta"
+        android:icon="@drawable/rta"
+        android:title="@string/real_time_arrivals" />
+
+</menu>

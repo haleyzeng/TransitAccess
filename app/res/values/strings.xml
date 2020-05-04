@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TigerTransitImproved</string>
+    <string name="title_home">Schedules</string>
+    <string name="title_dashboard">Real Time Arrivals</string>
+    <string name="more_info">Click to see more information.</string>
+
+    <string name="schedules">Schedules</string>
+    <string name="real_time_arrivals">Real-Time Arrivals</string>
+    <string name="departing_from">Departing from: </string>
+    <string name="arriving_at">Arriving at: </string>
+
+    <string name="item_choose_file">Add schedule</string>
+    <string name="day_of_week">Day of the Week: </string>
+    <string name="get_directions">Get Directions</string>
+    <string name="open_streetview">Open Street View</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
